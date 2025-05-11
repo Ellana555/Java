@@ -12,6 +12,8 @@ public class Payer {
         cardNumber = "cardNumber";
     }
 
+
+    
     public Payer(String surname, String name, String address, String cardNumber) {
         this.surname = surname;
         this.name = name;
